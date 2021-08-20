@@ -48,7 +48,7 @@
                 <img src="../assets/images/KC-14.jpg" alt="foto 2">
             </div>
             <div class="uk-responsive-width uk-responsive-height uk-padding-small">
-                <img src="../assets/images/KC-15.jpg" alt="foto 2">
+                <img src="../assets/images/kc-15.jpg" alt="foto 2">
             </div>
         </slick>
       </div>
