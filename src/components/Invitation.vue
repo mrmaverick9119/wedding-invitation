@@ -13,7 +13,10 @@
             </div>
             <div class="uk-responsive-width uk-padding-large uk-padding-remove-bottom">
                 <h2>Wedding Reception</h2>
-                <p>Tuesday, 31 August 2021<br>5:00PM - 9:00 PM</p>
+                <p>Tuesday, 31 August 2021<br>5:00 PM Onwards</p>
+            <div/>
+                <h2>Muhurtha</h2>
+                <p>Wednesday, 1 September 2021<br>7:20 AM </p>
                 <div class="countdown uk-flex uk-visible@l">
                     <div uk-grid uk-countdown="date: 2021-08-31T05:00:00+05:30" class="uk-margin-auto">
                         <div>
@@ -37,6 +40,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="countdown uk-flex uk-hidden@l">
                     <div uk-grid uk-countdown="date: 2021-08-31T05:00:00+05:30" class="uk-margin-auto">
                         <div>

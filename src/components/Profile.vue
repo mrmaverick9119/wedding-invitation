@@ -8,14 +8,14 @@
 						<img src="../assets/images/KC-16-5.jpg" :alt="wanita.nama" class="uk-border-circle uk-width-medium@l uk-width-large uk-box-shadow-large ">
 						<div class="uk-padding-small uk-padding-remove-bottom">
 							<h2 class="uk-h2">{{ wanita.nama }}</h2>
-							<p class="text-deskripsi uk-width-large@l uk-width-xxlarge uk-text-justify uk-margin-auto-right uk-margin-auto-left">{{ wanita.deskripsi }}</p>
+							<p class="text-deskripsi uk-responsive-width uk-margin-auto uk-margin-auto-vertical uk-padding-medium">{{ wanita.deskripsi }}</p>
 						</div>
 					</div>
 					<div uk-scrollspy="cls:uk-animation-slide-right-medium" class="uk-padding-large uk-padding-remove-horizontal uk-padding-remove-top">
 						<img src="../assets/images/KC-3.jpg" :alt="pria.nama" class="uk-border-circle uk-width-medium@l uk-width-large uk-box-shadow-large">
 						<div class="uk-padding-small uk-padding-remove-bottom">
 							<h2 class="uk-h2 uk-responsive-width uk-margin-auto uk-margin-auto-vertical uk-padding-medium">{{ pria.nama }}</h2>
-							<p class="text-deskripsi uk-width-large@l uk-width-xxlarge uk-text-justify uk-margin-auto-right uk-margin-auto-left">{{ pria.deskripsi }}</p>
+							<p class="text-deskripsi uk-responsive-width uk-margin-auto uk-margin-auto-vertical uk-padding-medium">{{ pria.deskripsi }}</p>
 						</div>
 					</div>
 				</div>
@@ -39,6 +39,7 @@ export default {
 		padding-top: 1px;
         background-color: #c1ebf7;
 	}
+	
     .text-deskripsi {
     	color: #666666 !important;
     }

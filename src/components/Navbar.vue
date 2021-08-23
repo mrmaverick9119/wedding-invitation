@@ -11,7 +11,7 @@
 							</ul>
 						</div>
 					</div>
-					<a class="uk-navbar-item uk-logo" href="#home">Kishan <i class="uk-padding-small" uk-icon="icon: heart"></i> Chaithra</a>
+					<a class="uk-navbar-item uk-logo" href="#home">Kishan <i uk-icon="icon: heart"></i> Chaithra</a>
 					<div class="uk-navbar-center-right">
 						<div>
 							<ul class="uk-navbar-nav">

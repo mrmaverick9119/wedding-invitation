@@ -27,7 +27,7 @@ export default {
   name: 'Home',
 
   data () {
-    return { title: 'Always & Forever', deskripsi: 'It didn’t take months to decide. It was my first and only thought – To make you mine and be with you forever!' }
+    return { title: 'Always & Forever', deskripsi: 'It didn’t take more than a second to decide. It was my first and only thought – To make you mine and be with you forever!' }
   }
 }
 </script>
